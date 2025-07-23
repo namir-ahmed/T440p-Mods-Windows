@@ -25,7 +25,8 @@ The mods in **bold** are the most important to me. You'll be surprised as to wha
 
 ### Mods
 - **CPU Replacement (Unsoldered, socketed unlike almost all laptop CPUs. Replace with the i7-4810mq)**
-- **Upgradable RAM up to 16GB (Thank goodness for unsoldered RAM)**
+- **USB-C Charger Adapter. It essentially is a little adapter that is USB-C female and thinkpad rectangle charger male. You plug in the adapter like normal and use a USB-C cable at the other end. There are also standalone cables that combine the rectange charger and USB-C if you want to go that route. With an GaN travel adapter, you have a much lighter charging solution. You can also replace the rectangle port entirely with USB-C if you want also this is much more difficult and expensive.**
+- **Upgradable RAM up to 16GB (Nice to see unsoldered RAM)**
 - **Replacable SATA drive (SSD)**
 - **Hackintoshable (Easy to do. I personally done this and have a [repo about a T440P Hackintosh](https://github.com/NawalJAhmed/T440p-Hackintosh).)**
 - **Keyboard replacement with backlit keyboard (Only if yours did not come with one)**
